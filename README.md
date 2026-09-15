@@ -1,6 +1,10 @@
-<img align="right" width="180" alt="Hugo Juan Gómez" src="https://github.com/Juguitoo.png" />
+<div align="center">
 
 # Hugo Juan Gómez
+
+</div>
+
+<img align="right" width="150" alt="Hugo Juan Gómez" src="https://github.com/Juguitoo.png" />
 
 **Computer engineer.** I build local-first apps I actually use.  
 Android, Flutter, and Java — with architecture you can read in the repo.
