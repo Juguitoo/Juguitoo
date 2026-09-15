@@ -11,6 +11,7 @@ Android, Flutter, and Java — with architecture you can read in the repo.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 [JuguitoReader](https://github.com/Juguitoo/JuguitoReader) · [Aegis](https://github.com/Juguitoo/Aegis)
@@ -114,9 +115,13 @@ UI (Flutter + Riverpod) → ViewModel → Repository → Drift / SQLite
 | Mobile / UI    | Jetpack Compose · Material 3 · Flutter            |
 | Architecture   | Clean Architecture · MVVM · Hilt · Riverpod       |
 | Persistence    | Room · DataStore · Drift                          |
+| Backend        | Spring Boot · some Vaadin                         |
+| Also           | some Unity                                        |
 | Async          | Coroutines · Flow                                 |
 | Tests          | JUnit · MockK · Turbine · Flutter Test            |
 
+
+Java, Spring Boot and a bit of Vaadin come from university work — including SolidarityHub — not from a product I ship today. Unity is the same kind of line: I have used it on team projects, but those repos are not mine and they are not part of this profile.
 
 I care about **local-first design**, **explicit domain models**, and tests that lock the behavior I would not want to regress — especially around persistence and foreign keys.
 
