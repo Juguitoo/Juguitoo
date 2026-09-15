@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Juguitoo.png" width="110" alt="Hugo Juan Gómez">
+<img src="https://github.com/Juguitoo.png" width="220" alt="Hugo Juan Gómez">
 
 # Hugo Juan Gómez
 
@@ -32,15 +32,19 @@ I am currently taking **[JuguitoReader](https://github.com/Juguitoo/JuguitoReade
 
 ---
 
-
-
 # Projects
 
+<div align="center">
+  
 ## JuguitoReader
 
-<div align="center">
+<br>
+
 <img src="https://raw.githubusercontent.com/Juguitoo/JuguitoReader/dev/docs/icons/JuguitoReaderBanner.png" alt="JuguitoReader" width="640">
+
 </div>
+
+<br>
 
 **Digital books and physical ones. One local app.**
 
@@ -72,9 +76,13 @@ Home · Library · Reader · Registry
 
 ---
 
-
+<div align="center">
 
 ## Aegis
+
+<br>
+
+</div>
 
 **Tasks, focus, and habits on phone and desktop.**
 
@@ -86,16 +94,17 @@ UI (Flutter + Riverpod) → ViewModel → Repository → Drift / SQLite
 
 <div align="center">
 
-| Desktop | Mobile |
-| :---: | :---: |
-| <img src="https://raw.githubusercontent.com/Juguitoo/Aegis/main/docs/images/VistaTareasEscritorio.png" alt="Aegis desktop tasks" width="520"> | <img src="https://raw.githubusercontent.com/Juguitoo/Aegis/main/docs/images/VistaTareasMovil.png" alt="Aegis mobile tasks" width="220"> |
-
-</div>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=SNBkrVXFYzE">
+    <img src="https://img.youtube.com/vi/SNBkrVXFYzE/hqdefault.jpg" alt="Demo de la app" />
+  </a>
+</p>
 
 [Repository](https://github.com/Juguitoo/Aegis) · Flutter · Dart · Riverpod · Drift
 
----
+</div>
 
+---
 
 
 ## Earlier coursework
