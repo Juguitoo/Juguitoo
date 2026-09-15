@@ -190,5 +190,6 @@ Kotlin / Compose day to day; Flutter when the product needs it.
 # Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-Juguitoo-181717?style=flat-square&logo=github)](https://github.com/Juguitoo)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:h.juagom@proton.me)
 
-Open an issue on a repo, or follow along there. Source on GitHub is the portfolio.
+Open an issue on a repo, or write me by email. Source on GitHub is the portfolio.
