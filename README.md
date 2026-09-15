@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://github.com/Juguitoo.png" width="220" alt="Hugo Juan Gómez">
+<img align="right" width="180" alt="Hugo Juan Gómez" src="https://github.com/Juguitoo.png" />
 
 # Hugo Juan Gómez
 
@@ -16,7 +14,7 @@ Android, Flutter, and Java — with architecture you can read in the repo.
 
 [JuguitoReader](https://github.com/Juguitoo/JuguitoReader) · [Aegis](https://github.com/Juguitoo/Aegis)
 
-</div>
+<br clear="both">
 
 ---
 
@@ -117,18 +115,56 @@ UI (Flutter + Riverpod) → ViewModel → Repository → Drift / SQLite
 
 # Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,spring,mysql,sqlite,unity" alt="Tech stack" />
+</p>
 
-| Area           | Technologies                                      |
-| -------------- | ------------------------------------------------- |
-| Languages      | Kotlin · Dart · Java · SQL                        |
-| Mobile / UI    | Jetpack Compose · Material 3 · Flutter            |
-| Architecture   | Clean Architecture · MVVM · Hilt · Riverpod       |
-| Persistence    | Room · DataStore · Drift                          |
-| Backend        | Spring Boot · some Vaadin                         |
-| Also           | some Unity                                        |
-| Async          | Coroutines · Flow                                 |
-| Tests          | JUnit · MockK · Turbine · Flutter Test            |
+**Languages**
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Mobile / UI**
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material%203-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Architecture**
+
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4B5563?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-2563EB?style=for-the-badge)
+![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Persistence**
+
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![DataStore](https://img.shields.io/badge/DataStore-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Drift](https://img.shields.io/badge/Drift-0175C2?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Vaadin](https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white)
+
+**Also**
+
+![Unity](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white)
+
+**Async**
+
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Tests**
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![MockK](https://img.shields.io/badge/MockK-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Turbine](https://img.shields.io/badge/Turbine-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter Test](https://img.shields.io/badge/Flutter%20Test-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 Java, Spring Boot and a bit of Vaadin come from university work — including SolidarityHub — not from a product I ship today. Unity is the same kind of line: I have used it on team projects, but those repos are not mine and they are not part of this profile.
 
