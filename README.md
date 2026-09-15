@@ -13,7 +13,7 @@ Android, Flutter, and Java — with architecture you can read in the repo.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-[JuguitoReader](https://github.com/Juguitoo/JuguitoReader) · [Aegis](https://github.com/Juguitoo/Aegis) · [SolidarityHub](https://github.com/Juguitoo/SolidarityHubTareas)
+[JuguitoReader](https://github.com/Juguitoo/JuguitoReader) · [Aegis](https://github.com/Juguitoo/Aegis)
 
 </div>
 
@@ -25,7 +25,7 @@ Android, Flutter, and Java — with architecture you can read in the repo.
 
 Most Android reading apps are EPUB viewers. Most productivity apps assume a cloud account. I wanted tools that still work when the book is paper, the network is gone, or I simply do not want an account.
 
-I studied Computer Engineering. The public work here is **local-first** when it can be: files and data stay on the device, there is no account, and offline use is a product decision, not a workaround. When the problem needs a server — volunteers, inventories, disaster logistics — I write Java and Spring the same way: explicit models, tests, and a UI operators can actually run.
+I studied Computer Engineering. The public work here is **local-first** when it can be: files and data stay on the device, there is no account, and offline use is a product decision, not a workaround.
 
 I am currently taking **[JuguitoReader](https://github.com/Juguitoo/JuguitoReader)** through closed testing toward the Play Store.
 
@@ -77,7 +77,7 @@ Home · Library · Reader · Registry
 
 **Tasks, focus, and habits on phone and desktop.**
 
-Final-year project (TFG) in Computer Engineering. Aegis is a Flutter app for Android and desktop: tasks with estimates and tags, a calendar, an immersive Pomodoro timer, weekly habits, a diary, and stats. On Android it can block distracting apps during a focus session. Everything lives in a local Drift / SQLite database, with JSON backup.
+Final-year project (TFG) in Computer Engineering, graded **9.5 / 10**. Aegis is a Flutter app for Android and desktop: tasks with estimates and tags, a calendar, an immersive Pomodoro timer, weekly habits, a diary, and stats. On Android it can block distracting apps during a focus session. Everything lives in a local Drift / SQLite database, with JSON backup.
 
 ```
 UI (Flutter + Riverpod) → ViewModel → Repository → Drift / SQLite
@@ -97,19 +97,9 @@ UI (Flutter + Riverpod) → ViewModel → Repository → Drift / SQLite
 
 
 
-## SolidarityHub
+## Earlier coursework
 
-A university **team** project: a platform for coordinating volunteers, resources, donations, and tasks during a catastrophe.
-
-Spring Boot REST API + Vaadin UI + MySQL. Needs become tasks; urgency drives assignment (Builder); resource changes notify the rest of the system (Observer); lists are filtered with the Criteria pattern.
-
-```
-Vaadin UI → REST → Spring Boot → JPA / MySQL
-```
-
-Largest contributor on the public repo (task and resource flows, backend services).
-
-[Repository](https://github.com/Juguitoo/SolidarityHubTareas) · Java · Spring Boot · Vaadin · JPA
+[SolidarityHub](https://github.com/Juguitoo/SolidarityHubTareas) was a third-year Computer Engineering **team** project (Java, Spring Boot, Vaadin): a prototype for coordinating volunteers, resources and tasks. It is not maintained and is not a running product.
 
 ---
 
@@ -123,9 +113,8 @@ Largest contributor on the public repo (task and resource flows, backend service
 | Languages      | Kotlin · Dart · Java · SQL                        |
 | Mobile / UI    | Jetpack Compose · Material 3 · Flutter            |
 | Architecture   | Clean Architecture · MVVM · Hilt · Riverpod       |
-| Persistence    | Room · DataStore · Drift · JPA · MySQL            |
-| Backend        | Spring Boot · Vaadin                              |
-| Async          | Coroutines · Flow · Streams                       |
+| Persistence    | Room · DataStore · Drift                          |
+| Async          | Coroutines · Flow                                 |
 | Tests          | JUnit · MockK · Turbine · Flutter Test            |
 
 
@@ -138,7 +127,7 @@ I care about **local-first design**, **explicit domain models**, and tests that 
 # Currently
 
 Shipping **JuguitoReader** to closed testers, then Play Store.  
-Kotlin / Compose day to day; Flutter and Java when the product needs them.
+Kotlin / Compose day to day; Flutter when the product needs it.
 
 ---
 
