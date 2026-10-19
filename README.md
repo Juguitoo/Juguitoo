@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hugo Juan Gómez
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Serif&size=32&duration=2800&pause=1000&color=C4B5FD&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=200&lines=Hi%2C+I%27m+Juguitoo;Computer+engineer;I+like+building+my+own+apps%2C+mostly+mobile+and+backend;Feel+free+to+take+a+look+at+my+projects">
+  <img alt="Hi, I'm Juguitoo. Computer engineer. I like building my own apps, mostly mobile and backend. Feel free to take a look at my projects." src="https://readme-typing-svg.demolab.com?font=Noto+Serif&size=32&duration=2800&pause=1000&color=5B21B6&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=200&lines=Hi%2C+I%27m+Juguitoo;Computer+engineer;I+like+building+my+own+apps%2C+mostly+mobile+and+backend;Feel+free+to+take+a+look+at+my+projects">
+</picture>
 
 </div>
 
 <img align="right" width="150" alt="Hugo Juan Gómez" src="https://github.com/Juguitoo.png" />
-
-**Computer engineer.** I build local-first apps I actually use.  
-Android, Flutter, and Java — with architecture you can read in the repo.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)&nbsp;
@@ -16,7 +16,7 @@ Android, Flutter, and Java — with architecture you can read in the repo.
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-[JuguitoReader](https://github.com/Juguitoo/JuguitoReader) · [Aegis](https://github.com/Juguitoo/Aegis)
+[JuguitoReader](https://github.com/Juguitoo/JuguitoReader) · [Aegis](https://github.com/Juguitoo/Aegis) · [md-flow](https://github.com/Juguitoo/md-flow)
 
 <br clear="both">
 
@@ -24,13 +24,11 @@ Android, Flutter, and Java — with architecture you can read in the repo.
 
 
 
-# About
+# About me
 
-Most Android reading apps are EPUB viewers. Most productivity apps assume a cloud account. I wanted tools that still work when the book is paper, the network is gone, or I simply do not want an account.
+I'm Hugo Juan Gómez, a Computer Engineering graduate from the Universitat Politècnica de València (UPV). I like building software I use myself. Most of what I publish is mobile, with Kotlin and Flutter. [md-flow](https://github.com/Juguitoo/md-flow) is the web one: a self-hosted board for the tasks in a project. Backend — Kotlin and Spring Boot — is the part I want to keep growing.
 
-I studied Computer Engineering. The public work here is **local-first** when it can be: files and data stay on the device, there is no account, and offline use is a product decision, not a workaround.
-
-I am currently taking **[JuguitoReader](https://github.com/Juguitoo/JuguitoReader)** through closed testing toward the Play Store.
+Right now I am focused on **[JuguitoReader](https://github.com/Juguitoo/JuguitoReader)**, a mobile app to organize and read books. It is available on the [Play Store](https://play.google.com/store/apps/details?id=com.juguito.juguitoreader).
 
 ---
 
@@ -74,7 +72,7 @@ Home · Library · Reader · Registry
 
 </div>
 
-[Repository](https://github.com/Juguitoo/JuguitoReader) · Pre-release, closed testing
+[Repository](https://github.com/Juguitoo/JuguitoReader) · [Released](https://play.google.com/store/apps/details?id=com.juguito.juguitoreader) · In development
 
 ---
 
@@ -105,6 +103,33 @@ UI (Flutter + Riverpod) → ViewModel → Repository → Drift / SQLite
 [Repository](https://github.com/Juguitoo/Aegis) · Flutter · Dart · Riverpod · Drift
 
 </div>
+
+---
+
+<div align="center">
+
+## md-flow
+
+<br>
+
+</div>
+
+**A self-hosted board for the tasks in your projects.**
+
+md-flow is a local web app for running project work as a Kanban flow: to do, in progress, and done. You work in the page. It stores everything in Markdown files that it creates, so the day-to-day use is the interface, not the folder and not writing Markdown by hand.
+
+From the page you can:
+
+- Keep a global backlog of open work
+- Open a task and write the problem, the decision, what happened during development, and how it was resolved
+- Define your own versions, and see the roadmap of where the project is going
+- Reorder work, move a task forward, and attach the commits that closed it
+
+Point it at a project folder. If those files are not there yet, md-flow automatically creates the entire necessary file structure.
+
+It is not a finished product. The board is usable, and the feature set is still open.
+
+[Repository](https://github.com/Juguitoo/md-flow) · Next.js · React · TypeScript
 
 ---
 
@@ -172,7 +197,7 @@ UI (Flutter + Riverpod) → ViewModel → Repository → Drift / SQLite
 
 Java, Spring Boot and a bit of Vaadin come from university work — including SolidarityHub — not from a product I ship today. Unity is the same kind of line: I have used it on team projects, but those repos are not mine and they are not part of this profile.
 
-I care about **local-first design**, **explicit domain models**, and tests that lock the behavior I would not want to regress — especially around persistence and foreign keys.
+I care about explicit domain models, and tests that lock the behavior I would not want to regress — especially around persistence and foreign keys.
 
 ---
 
@@ -180,8 +205,7 @@ I care about **local-first design**, **explicit domain models**, and tests that 
 
 # Currently
 
-Shipping **JuguitoReader** to closed testers, then Play Store.  
-Kotlin / Compose day to day; Flutter when the product needs it.
+Working on **JuguitoReader** and **md-flow**. JuguitoReader is available on the [Play Store](https://play.google.com/store/apps/details?id=com.juguito.juguitoreader).
 
 ---
 
